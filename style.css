@@ -1,0 +1,47 @@
+html{
+    background: white;
+    }
+
+    article{
+        display:flex;
+        background:#999;
+        padding:20px;
+        margin:20px;
+    }
+
+    body{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        margin: 40px;
+        padding:20px;
+        color: cadetblue;
+        border-top: 10px solid black;
+        background: cornsilk;
+        
+    }
+    h1{
+     font-size: large;
+     margin: 0;
+     color:black;   
+     top:0;
+     background-color: white;
+     padding:40px;
+     margin: 20px;
+     font-size: 3em;
+    }
+
+    h2{
+        font-size: large;
+        margin: 0;
+        color: darkblue;
+        position: sticky;
+       }
+    
+       h3{
+        font-size: small;  
+       }
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        color: black;
+        line-height: 1.4em;
+    
+    }
